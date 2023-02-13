@@ -1,0 +1,34 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+form{
+
+}
+.table-dark{
+    background-color: rgb(175, 42, 42);
+}
+input[type=submit]:hover {
+    background-color: black;
+    color: white;
+  }
+  .btn-primary{
+      background-color: black;
+    border-color: black;
+
+  }
+  .btn-warning {
+    color: white;
+    background-color: rgb(175, 42, 42);
+    border-color: rgb(175, 42, 42);
+}
+.btn btn-warning mt-5{
+    color: white;
+    background-color: rgb(175, 42, 42);
+    border-color: rgb(175, 42, 42);
+}
+.btn{
+    color: white;
+    background-color: rgb(175, 42, 42);
+    border-color: rgb(175, 42, 42);
+}

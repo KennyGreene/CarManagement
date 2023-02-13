@@ -1,0 +1,23 @@
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.table table-striped table-bordered table-hover{
+    background-color: cadetblue;
+
+}
+.table-dark{
+    background-color: rgb(175, 42, 42);
+}
+td{background-color: white;
+    color: black;
+    stroke: black;
+}
+.btn-primary{
+    background-color: black;
+    border-color: black;
+}
+.btn-danger{
+    background-color: rgb(175, 42, 42);
+}
+
